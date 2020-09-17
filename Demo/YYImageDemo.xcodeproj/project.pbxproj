@@ -41,6 +41,7 @@
 		D9D17EE11F05756400051419 /* YYImageExample.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D17EDB1F05756400051419 /* YYImageExample.m */; };
 		D9D17EE21F05756400051419 /* YYImageExampleHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D17EDD1F05756400051419 /* YYImageExampleHelper.m */; };
 		D9D17EE31F05756400051419 /* YYImageProgressiveExample.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D17EDF1F05756400051419 /* YYImageProgressiveExample.m */; };
+		FE5DD5562513750D00BC631A /* YYImageStaticViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE5DD5552513750D00BC631A /* YYImageStaticViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +101,8 @@
 		D9D17EDD1F05756400051419 /* YYImageExampleHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYImageExampleHelper.m; sourceTree = "<group>"; };
 		D9D17EDE1F05756400051419 /* YYImageProgressiveExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYImageProgressiveExample.h; sourceTree = "<group>"; };
 		D9D17EDF1F05756400051419 /* YYImageProgressiveExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYImageProgressiveExample.m; sourceTree = "<group>"; };
+		FE5DD5542513750D00BC631A /* YYImageStaticViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYImageStaticViewController.h; sourceTree = "<group>"; };
+		FE5DD5552513750D00BC631A /* YYImageStaticViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YYImageStaticViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +149,8 @@
 				D9D17EDD1F05756400051419 /* YYImageExampleHelper.m */,
 				D9D17EDE1F05756400051419 /* YYImageProgressiveExample.h */,
 				D9D17EDF1F05756400051419 /* YYImageProgressiveExample.m */,
+				FE5DD5542513750D00BC631A /* YYImageStaticViewController.h */,
+				FE5DD5552513750D00BC631A /* YYImageStaticViewController.m */,
 			);
 			path = YYImageDemo;
 			sourceTree = "<group>";
@@ -333,6 +338,7 @@
 				D97F40951F0573DA00DFD481 /* YYFrameImage.m in Sources */,
 				D9D17ED01F05751700051419 /* UIView+YYAdd.m in Sources */,
 				D91A603F1F057230008CD5D3 /* main.m in Sources */,
+				FE5DD5562513750D00BC631A /* YYImageStaticViewController.m in Sources */,
 				D9D17EE21F05756400051419 /* YYImageExampleHelper.m in Sources */,
 				D9D17ECF1F05751700051419 /* UIGestureRecognizer+YYAdd.m in Sources */,
 				D9D17EE31F05756400051419 /* YYImageProgressiveExample.m in Sources */,

@@ -26,6 +26,7 @@
     self.classNames = @[].mutableCopy;
     [self addCell:@"Animated Image" class:@"YYImageDisplayExample"];
     [self addCell:@"Progressive Image" class:@"YYImageProgressiveExample"];
+    [self addCell:@"Static Image" class:@"YYImageStaticViewController"];
     //[self addCell:@"Web Image" class:@"YYWebImageExample"];
     //[self addCell:@"Benchmark" class:@"YYImageBenchmark"];
     [self.tableView reloadData];
